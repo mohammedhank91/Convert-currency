@@ -1,6 +1,6 @@
 # Currency Conversion Project
 
-This is a simple currency conversion project using HTML, CSS, and JavaScript. It allows users to convert an amount from one currency to another using real-time exchange rates retrieved from an API.
+This is a simple currency conversion project using Python , Flask ,HTML, CSS, and JavaScript. It allows users to convert an amount from one currency to another using real-time exchange rates retrieved from an API.
 
 ## Features
 
